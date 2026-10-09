@@ -1,0 +1,6 @@
+{
+  "name": "ZamOS - Zambia Sovereign Systems Hub",
+  "description": "Zambia's comprehensive sovereign digital operating platform integrating ZESCO Power, ZRA Tax, RTSA Transit, PACRA Commerce, CDF tracking, SmartCare Health, and citizen services across all 10 provinces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
